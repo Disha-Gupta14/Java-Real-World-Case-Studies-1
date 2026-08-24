@@ -1,3 +1,6 @@
+//Write a Java Program for Student Admission System
+//*Problem Statement:
+//A college stores information about newly admitted students using Constructors and Methods.
 import java.util.Scanner;
 public class AdmissionMain{
 	public static void main(String[] args){
