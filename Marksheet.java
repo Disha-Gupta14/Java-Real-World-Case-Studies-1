@@ -1,3 +1,4 @@
+//Write a Java Program to take 5 subject marks as an input and calculate percentage of the student division and also generate marksheet.
 public class Marksheet{
 	public static void main(String[]args){
 		int a,b,c,d,e,TotalMarks,Percentage, Division,Rollno;
