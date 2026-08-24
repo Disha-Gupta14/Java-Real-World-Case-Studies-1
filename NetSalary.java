@@ -1,3 +1,4 @@
+//Write a Java Program to calculate net salary of the employee and also print the salary receipt.
 public class NetSalary{
 	public static void main(String[]args){
 		int BS, DA, HRA, MA, TA, PF, Total,NetSalary,empId;
